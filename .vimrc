@@ -101,7 +101,7 @@ set t_Co=256
 
 " make it not yell when first running BundleInstall and solarized doesn't
 " exist yet
-silent! colorscheme railscasts
+silent! colorscheme solarized 
 
 " Gutter
 set number
